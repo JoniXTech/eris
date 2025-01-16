@@ -1422,6 +1422,7 @@ declare namespace Eris {
     members?: Collection<Member>;
     roles?: Collection<Role>;
     users?: Collection<User>;
+    attachments?: Collection<Attachment>;
   }
 
   // Invite
